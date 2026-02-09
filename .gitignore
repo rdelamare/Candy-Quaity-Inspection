@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.onnx
+*.pt
+*.h5
+*.csv
+*.mp4
+.env
+
+data/*
+!data/.gitkeep
